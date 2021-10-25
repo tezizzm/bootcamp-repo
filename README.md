@@ -1,2 +1,2 @@
 # bootcamp-repo
-Repository for storing configuration for bootcamp application
+Mirrored Repository for storing configuration for bootcamp application
